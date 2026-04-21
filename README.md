@@ -79,3 +79,6 @@ Add real-time forecasting dashboard
 
  Author
 Sarfaraz Ali
+
+Acknowledgment
+This project is built for learning and practicing Machine Learning concepts and real-world data handling.
