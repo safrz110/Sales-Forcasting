@@ -98,7 +98,6 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Jobl
 
  Project Structure
 
-
 sales-forecasting/
 │
 ├── sales_forecasting.ipynb
