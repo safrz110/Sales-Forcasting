@@ -111,7 +111,7 @@ sales-forecasting/
  Reproducibility
 
 
-git clone https://github.com/your-username/sales-forecasting.git
+git clone https://github.com/safrz110/Sales-Forcasting-Regression-Analysis.git
 pip install -r requirements.txt
 jupyter notebook
 
